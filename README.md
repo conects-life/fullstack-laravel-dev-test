@@ -4,7 +4,7 @@
 
 Valutare le competenze del candidato nei seguenti ambiti tecnici:
 
-- **Linguaggi:** PHP (Laravel, Filament), MySQL, JavaScript (AlpineJS, Livewire), HTML, CSS (TailwindCSS)
+- **Linguaggi:** PHP ([Laravel](https://laravel.com/), [Filament](https://filamentphp.com/)), MySQL, JavaScript ([AlpineJS](https://alpinejs.dev/), [Livewire](https://livewire.laravel.com/)), HTML, CSS ([TailwindCSS](https://tailwindcss.com/))
 - **Concetti:** Utilizzo delle queue e task asincroni, capacità di leggere e comprendere documentazione tecnica
 - **Frameworks/Tooling:** Laravel, Filament, Livewire, AlpineJS, TailwindCSS
 - **Database:** Modellazione con Eloquent, **con particolare attenzione alla gestione delle relazioni tra modelli**
